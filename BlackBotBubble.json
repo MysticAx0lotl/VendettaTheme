@@ -1,6 +1,3 @@
-interface
-Theme 
-
 {
 name: AMOLED Bot Bubble;
 description: Turns the bubble around the bot tag (or pronoun tag, if you use PronounDB) black to match the built-in AMOLED theme;
@@ -17,6 +14,6 @@ semanticColors: {
 									                  //Dark theme, light, amoled         
 };
 rawColors: { 
-        "BRAND_260": "#000000",
+        "BRAND_260": "#000000"
 };
 }
