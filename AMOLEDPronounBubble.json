@@ -6,9 +6,6 @@
 			 "name": "MysticAxolotl"
 		}
 	],
-	"semanticColors": { 
-		"HEADER_PRIMARY":  ["#A07D6C"]     
-	},
 	"rawColors": { 
   		"BRAND_260": "#000000"
 		"BRAND_560": "#FFFFFF"
