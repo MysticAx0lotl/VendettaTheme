@@ -3,8 +3,7 @@
 	"description": "Turns the bubble around the bot tag (or pronoun tag, if you use PronounDB) black to match the built-in AMOLED theme",
 	"authors": [ 
 		{
-			 "name": "MysticAxolotl",
-			 "id": "string"
+			 "name": "MysticAxolotl"
 		}
 	],
 	"rawColors": { 
