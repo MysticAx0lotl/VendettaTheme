@@ -6,7 +6,7 @@
 			 "name": "MysticAxolotl"
 		}
 	],
-	semanticColors: { 
+	"semanticColors": { 
 		"HEADER_PRIMARY":  ["#A07D6C"]     
 	},
 	"rawColors": { 
