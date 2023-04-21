@@ -1,0 +1,23 @@
+interface
+Theme 
+
+{
+name: string;
+description: string;
+authors: [ 
+	{
+		 name: string;
+		 id: string;
+	}
+],
+spec: 2;
+semanticColors: { 
+									"key: string": "[ string, string, string ]"
+									            // [ Dark theme, light, amoled ]
+															// all #hex        
+};
+rawColors: { 
+						"[ key: string ]": "string"
+															// #hex
+};
+}
