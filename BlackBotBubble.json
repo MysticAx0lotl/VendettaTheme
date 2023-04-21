@@ -1,17 +1,16 @@
 {
-name: AMOLED Bot Bubble;
-description: Turns the bubble around the bot tag (or pronoun tag, if you use PronounDB) black to match the built-in AMOLED theme;
-authors: [ 
+	"name": "AMOLED Bot Bubble";
+	"description": "Turns the bubble around the bot tag (or pronoun tag, if you use PronounDB) black to match the built-in AMOLED theme";
+	"authors": [ 
 		{
-			 name: MysticAxolotl;
-			 id: string;
+			 "name": "MysticAxolotl";
+			 "id": "string";
 		}
 	],
-	spec: 2;
-	semanticColors: { 
+	"semanticColors": { 
 		"HEADER_PRIMARY":  ["#EFDFD7", "#E7D6CE", "#A07D6C"]  
 	};
-	rawColors: { 
+	"rawColors": { 
   	      "BRAND_260": "#000000"
 	};
 }
